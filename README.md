@@ -1,4 +1,4 @@
-Hi I'm Kylie Ison. I have a vast ammount of experience in the IT industry, primarily in T-SQL.
+Hi I'm Kylie Ison. I have a vast amount of experience in the IT industry, primarily in T-SQL.
 Being a software developer is my passion and my career.
 
 email: Appstogoau@gmail.com
